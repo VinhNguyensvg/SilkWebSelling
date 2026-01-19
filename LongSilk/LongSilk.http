@@ -1,0 +1,6 @@
+@LongSilk_HostAddress = http://localhost:5298
+
+GET {{LongSilk_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
